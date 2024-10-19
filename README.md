@@ -6,3 +6,7 @@ download zip
 press ctrl+j
 turn develpor mode on
 load index.htmlit will be all set
+# issues?
+post in issues
+OR
+https://forms.gle/W3wnHcextp37ChAL7
